@@ -1,8 +1,0 @@
-rootProject.name = 'scene'
-include 'display-scene',
-        'distance-composite-symbol',
-        'elevation-mode',
-        'extrude-graphics',
-        'mission-replay',
-        'scene-properties-expressions',
-        'symbols'
